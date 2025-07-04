@@ -12,7 +12,7 @@ A lightweight REST API server that exposes live hardware metrics from your machi
 ✅ Disk usage  
 ✅ `/health` endpoint to check server status
 
-The server runs on **.NET 8** and is designed to work with a client application (e.g., [HardwareInfoViewer](https://github.com/your-org/HardwareInfoViewer)).
+The server runs on **.NET 8** and is designed to work with a client application (e.g., [HardwareInfoViewer](https://github.com/Mateusz-Latka/HardwareInfoViewer)).
 
 ---
 
